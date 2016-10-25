@@ -1,5 +1,5 @@
 {
-  "name": "hello-world",
+  "name": "simple-d3-react-aster-plot",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -7,7 +7,9 @@
   },
   "dependencies": {
     "react": "^15.3.2",
-    "react-dom": "^15.3.2"
+    "react-dom": "^15.3.2",
+    "d3": "^4.2.8",
+    "d3-tip": "^0.7.1"
   },
   "scripts": {
     "start": "react-scripts start",
